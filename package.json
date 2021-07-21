@@ -1,0 +1,22 @@
+{
+  "name": "neko-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A beautiful modern looking cold pastel color palette on a dark blue-gray background. Tested for Python language.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cold",
+    "cool",
+    "blues",
+    "modern",
+    "city",
+    "neon",
+    "neko"
+  ],
+  "repository": "https://gitlab.com/amelien.deshams/neko-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
