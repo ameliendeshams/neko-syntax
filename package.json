@@ -14,7 +14,7 @@
     "neon",
     "neko"
   ],
-  "repository": "https://gitlab.com/amelien.deshams/neko-syntax",
+  "repository": "https://github.com/ameliendeshams/neko-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
